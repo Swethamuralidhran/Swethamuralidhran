@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Swetha, I'm a UI/UX designer and a FrontEnd developer from India</h2>
 
 ###
-
+<h2 align="left">I'm familiar with:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
 ###
 
 <br clear="both">
-<h2 align="left">Connect with me on</h2>
+<h2 align="center">Link up with me on</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
